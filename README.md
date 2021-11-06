@@ -1,3 +1,4 @@
 # TAREA-1
 #        UNIVERSIDAD DE LAS FUERZAS ARMADAS ESPE
 #     FUNDAMENTOS DE CIRCUITOS ELÉCTRICOS
+// Integrantes: Carrera, Castro y Chacha
