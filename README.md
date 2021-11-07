@@ -25,3 +25,6 @@
 ## <p align=center> Subtema
 ## <p align=center> Resistores
 ![Resistores](https://user-images.githubusercontent.com/93786746/140655732-e59f1a07-a1da-4ecf-a479-d21988c86653.png)
+## <p align=center> Cicuitos eléctricos
+![Circuito eléctrico](https://user-images.githubusercontent.com/93786746/140660692-6ae782d8-0aae-47f6-88e8-78f4506d0fbf.png)
+
