@@ -29,9 +29,11 @@
 ## <p align=center> Resistores
 ![Resistores](https://user-images.githubusercontent.com/93786746/140655732-e59f1a07-a1da-4ecf-a479-d21988c86653.png)
 ## <p align=center> Cicuito eléctrico
-![Circuito eléctrico](https://user-images.githubusercontent.com/93786746/140660692-6ae782d8-0aae-47f6-88e8-78f4506d0fbf.png)
+![Circuito eléctrico](https://user-images.githubusercontent.com/93786746/140665516-0cc66262-5979-43a1-80ac-cebfcc784973.png)
 ## <p align=center> Mediciones de circuito básicas
 ![Mediciones de circuitos](https://user-images.githubusercontent.com/93786746/140663337-88893420-1aeb-4444-90c7-a1a131cdbed7.png)
+## <p align=center> Seguridad eléctrica
+![Seguridad eléctrica](https://user-images.githubusercontent.com/93786746/140665532-1694a4e4-2a41-44fe-a430-6233836b7ee0.png)
 ## 3. Explicación y resolución de ejercicios
 ## 4. Video
 ## 5. Conclusiones
