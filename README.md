@@ -2,7 +2,7 @@
 # <p align=center> UNIVERSIDAD DE LAS FUERZAS ARMADAS ESPE 
 ## <p align=center> FUNDAMENTOS DE CIRCUITOS ELÉCTRICOS
 # <p align=center>  TAREA 1
-# Integrantes: 
+# Integrantes: <p align=right> NRC: 10149
 * Carrera Vela Nahir Danae
 * Castro Chugchilan Paúl Enrique
 * Chacha Chacha Kevin Alejandro
