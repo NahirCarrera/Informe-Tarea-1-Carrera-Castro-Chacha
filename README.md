@@ -15,9 +15,9 @@
   * Hola
 ## 2. Resumen
   # TEMA 1: <p align=center> Cantidades y unidades
-![Unidades de medición](https://user-images.githubusercontent.com/93829962/140659156-d852c20b-42a3-47dd-a05e-018c415598f5.png)
-![Notaciones](https://user-images.githubusercontent.com/93829962/140659214-a61290b7-2e16-4ff6-8c3d-76b759eb76ed.png)
-![Unidades métricas](https://user-images.githubusercontent.com/93829962/140659220-f504fed9-96b9-49ac-9af6-2a453746ab55.png)
+![Unidades de medición rojo](https://user-images.githubusercontent.com/93829962/140664854-1155d65f-dabc-4ff9-96db-357e7a24fa8a.jpeg)
+![Notaciones](https://user-images.githubusercontent.com/93829962/140664858-83188f8b-7de7-42e0-bce1-8690d0cf46d9.jpeg)
+![Prefijos rosa](https://user-images.githubusercontent.com/93829962/140664859-86ab5842-9e15-4817-9d07-da4f17776ba8.jpeg)
   # TEMA 2: <p align=center> Voltaje, corriente y resistencia
 ## <p align=center> Subtema
 ## <p align=center> Subtema
