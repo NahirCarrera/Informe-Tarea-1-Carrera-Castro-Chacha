@@ -27,4 +27,5 @@
 ![Resistores](https://user-images.githubusercontent.com/93786746/140655732-e59f1a07-a1da-4ecf-a479-d21988c86653.png)
 ## <p align=center> Cicuito eléctrico
 ![Circuito eléctrico](https://user-images.githubusercontent.com/93786746/140660692-6ae782d8-0aae-47f6-88e8-78f4506d0fbf.png)
-
+## <p align=center> Mediciones de circuito básicas
+![Mediciones de circuitos](https://user-images.githubusercontent.com/93786746/140663337-88893420-1aeb-4444-90c7-a1a131cdbed7.png)
