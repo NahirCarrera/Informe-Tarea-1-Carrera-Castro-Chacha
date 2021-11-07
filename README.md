@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/93786746/140655838-7c999627-5d62-4b5b-b862-13d8b001fe41.png)
+![image](https://user-images.githubusercontent.com/93786746/140656495-1e9017c5-1622-4145-a547-0ebbe5014f3d.png)
 # <p align=center> UNIVERSIDAD DE LAS FUERZAS ARMADAS ESPE 
 ## <p align=center> FUNDAMENTOS DE CIRCUITOS ELÉCTRICOS
 # <p align=center>  TAREA 1
