@@ -26,8 +26,9 @@
 ![Estructura Atómica](https://user-images.githubusercontent.com/93829976/140682982-bdd1675f-00d5-4ff5-8f27-c56280ccf100.png)
 ## <p align=center> Carga Eléctrica
 ![Carga Eléctrica](https://user-images.githubusercontent.com/93829976/140688684-4231dc0a-f8d7-4e27-a4a6-65b804c86041.png)
+## <p align=center> Voltaje, Corriente y Resistencia
+![Voltaje, Corriente y Resistencia](https://user-images.githubusercontent.com/93829976/140693264-70fb5d7d-005f-43f2-8964-e25fe981aa00.png)
 
-## <p align=center> Subtema
 ## <p align=center> Subtema
 ## <p align=center> Resistores
 ![Resistores](https://user-images.githubusercontent.com/93786746/140655732-e59f1a07-a1da-4ecf-a479-d21988c86653.png)
