@@ -37,6 +37,7 @@
 ## 3. Explicación y resolución de ejercicios
   ### Explicación
   ### Capítulo 1 - Ejercicios
+  ![image](https://user-images.githubusercontent.com/93786746/140682902-9419035b-fdd2-46c8-8c43-afdd8ba8b5ea.png)
   ![image](https://github.com/NahirCarrera/TAREA-1/blob/main/Cap%C3%ADtulo%201%20(11-19).JPG)
   ![image](https://user-images.githubusercontent.com/93786746/140670512-9d1466d8-8da6-474b-a9bc-550bf358036c.png)
 
@@ -44,6 +45,10 @@
   ![image](https://github.com/NahirCarrera/TAREA-1/blob/main/Cap%C3%ADtulo%202%20(17%20-%2031).JPG)
   ![image](https://user-images.githubusercontent.com/93786746/140674460-9730375b-3b2c-4829-8022-95dc8bd44da7.png)
   ![image](https://user-images.githubusercontent.com/93786746/140674897-6bc001cc-2fc2-4f0c-8d99-3abf3327e549.png)
+  ![image](https://user-images.githubusercontent.com/93786746/140679116-3c941188-b9e4-43f6-b2df-9438fa8b645a.png)
+![image](https://user-images.githubusercontent.com/93786746/140679145-3f94e26d-21ac-4460-80de-306c06d79e2d.png)
+![image](https://user-images.githubusercontent.com/93786746/140679157-7c13faef-b842-435d-8768-0d04e73316f5.png)
+
 ## 4. Video
 ## 5. Conclusiones
 ## 6. Bibliografía
