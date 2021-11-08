@@ -8,11 +8,11 @@
 * Chacha Chacha Kevin Alejandro
 ## 1. Objetivos
   ### General: 
-  * Analizar la materia correspondiente al capítulo 1 y 2 del libro Principios de Circuitos Eléctricos a travéz de instrumentos visuales para la posterior resolución de los ejercicios planteados. 
+  * Analizar la materia correspondiente al capítulo 1 y 2 del libro Principios de Circuitos Eléctricos a travéz de instrumentos visuales para la posterior resolución de los ejercicios 
   ### Específicos
-  * Asociar criterios de notación, unidades métricas y su operación por medio de solución de problemas con el objetivo de evaluar los conocimientos expuestos en mapas mentales.
-  * Esquematizar conceptos y componentes básicos de electricidad por medio de organizadores gráficos para su identificación en procedimientos empíricos.
-  * Integrar conocimientos sobre circuitos eléctricos, medición de magnitudes y seguridad eléctrica mediante la resolución de ejerecicios de aplicación con el objetivo de emplearlos posteriormente en prácticas experimentales.
+  * Hola
+  * Hola
+  * Hola
 ## 2. Resumen
   # CAPÍTULO 1: <p align=center> Cantidades y unidades
 ## <p align=center> Unidades de Medición
@@ -40,6 +40,7 @@
 ![Seguridad eléctrica](https://user-images.githubusercontent.com/93786746/140665532-1694a4e4-2a41-44fe-a430-6233836b7ee0.png)
 ## 3. Explicación y resolución de ejercicios
   ### Explicación
+  Para la resolución de los ejercicios impares planteados en cada capítulo, se realizará una previo análisis de la materia que se encuentra en el libro "Principios de Circuitos Eléctricos" correspondientes a los capítulos "Cantidades y unidades" y "Voltaje, corriente y resistencia".
   ### Capítulo 1 - Ejercicios
   ![image](https://user-images.githubusercontent.com/93786746/140687131-6d03c96e-fc0e-4c95-a319-35534930d4b6.png)
 
@@ -47,6 +48,9 @@
   ![image](https://user-images.githubusercontent.com/93786746/140670512-9d1466d8-8da6-474b-a9bc-550bf358036c.png)
 
   ### Capítulo 2 - Ejercicios
+  ![Capítulo 2 (1-7)](https://user-images.githubusercontent.com/93829976/140824260-337ef181-b025-48c8-9b01-020c070745f9.JPG)
+  ![Capítulo 2 (9-11)](https://user-images.githubusercontent.com/93829976/140824346-396e6ab8-e930-45b5-be21-3ce49f2764bd.JPG)
+  ![Capítulo 2 (13-15)](https://user-images.githubusercontent.com/93829976/140824359-ff99342f-05a7-4b31-a48a-1edf69cab79b.JPG)
   ![image](https://github.com/NahirCarrera/TAREA-1/blob/main/Cap%C3%ADtulo%202%20(17%20-%2031).JPG)
   ![image](https://user-images.githubusercontent.com/93786746/140674460-9730375b-3b2c-4829-8022-95dc8bd44da7.png)
   ![image](https://user-images.githubusercontent.com/93786746/140674719-fea2e6f5-1298-4b28-b495-bffa5eb8e74c.png)
@@ -61,4 +65,4 @@
   * chao
   * chao
 ## 6. Bibliografía
-  * Hasta nunca
+  * Floyd, T. (2007). _Principios De Circuitos Eléctricos_. Octava edición. México. Pearson Education.
