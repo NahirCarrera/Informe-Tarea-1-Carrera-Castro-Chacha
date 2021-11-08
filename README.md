@@ -8,7 +8,7 @@
 * Chacha Chacha Kevin Alejandro
 ## 1. Objetivos
   ### General: 
-  * Analizar la materia correspondiente al capítulo 1 y 2 del libro Principios de Circuitos Eléctricos a travéz de instrumentos visuales para la posterior resolución de los ejercicios 
+  * Analizar la materia correspondiente al capítulo 1 y 2 del libro Principios de Circuitos Eléctricos a travéz de instrumentos visuales para la posterior resolución de los ejercicios planteados. 
   ### Específicos
   * Hola
   * Hola
