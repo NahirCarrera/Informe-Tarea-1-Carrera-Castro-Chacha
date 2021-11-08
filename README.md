@@ -22,6 +22,7 @@
 ## <p align=center> Unidades Métricas
 ![Prefijos rosa](https://user-images.githubusercontent.com/93829962/140664859-86ab5842-9e15-4817-9d07-da4f17776ba8.jpeg)
   # CAPÍTULO 2: <p align=center> Voltaje, corriente y resistencia
+![Estructura Atómica](https://user-images.githubusercontent.com/93829976/140682982-bdd1675f-00d5-4ff5-8f27-c56280ccf100.png)
 ## <p align=center> Subtema
 ## <p align=center> Subtema
 ## <p align=center> Subtema
@@ -37,17 +38,13 @@
 ## 3. Explicación y resolución de ejercicios
   ### Explicación
   ### Capítulo 1 - Ejercicios
-  ![image](https://user-images.githubusercontent.com/93786746/140682902-9419035b-fdd2-46c8-8c43-afdd8ba8b5ea.png)
   ![image](https://github.com/NahirCarrera/TAREA-1/blob/main/Cap%C3%ADtulo%201%20(11-19).JPG)
   ![image](https://user-images.githubusercontent.com/93786746/140670512-9d1466d8-8da6-474b-a9bc-550bf358036c.png)
 
   ### Capítulo 2 - Ejercicios
   ![image](https://github.com/NahirCarrera/TAREA-1/blob/main/Cap%C3%ADtulo%202%20(17%20-%2031).JPG)
   ![image](https://user-images.githubusercontent.com/93786746/140674460-9730375b-3b2c-4829-8022-95dc8bd44da7.png)
-  ![image](https://user-images.githubusercontent.com/93786746/140674897-6bc001cc-2fc2-4f0c-8d99-3abf3327e549.png)
-  ![image](https://user-images.githubusercontent.com/93786746/140679116-3c941188-b9e4-43f6-b2df-9438fa8b645a.png)
-![image](https://user-images.githubusercontent.com/93786746/140679145-3f94e26d-21ac-4460-80de-306c06d79e2d.png)
-![image](https://user-images.githubusercontent.com/93786746/140679157-7c13faef-b842-435d-8768-0d04e73316f5.png)
+  ![image](https://user-images.githubusercontent.com/93786746/140674719-fea2e6f5-1298-4b28-b495-bffa5eb8e74c.png)
 
 ## 4. Video
 ## 5. Conclusiones
