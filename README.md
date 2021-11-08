@@ -43,8 +43,7 @@
   ### Capítulo 2 - Ejercicios
   ![image](https://github.com/NahirCarrera/TAREA-1/blob/main/Cap%C3%ADtulo%202%20(17%20-%2031).JPG)
   ![image](https://user-images.githubusercontent.com/93786746/140674460-9730375b-3b2c-4829-8022-95dc8bd44da7.png)
-  ![image](https://user-images.githubusercontent.com/93786746/140674719-fea2e6f5-1298-4b28-b495-bffa5eb8e74c.png)
-
+  ![image](https://user-images.githubusercontent.com/93786746/140674897-6bc001cc-2fc2-4f0c-8d99-3abf3327e549.png)
 ## 4. Video
 ## 5. Conclusiones
 ## 6. Bibliografía
