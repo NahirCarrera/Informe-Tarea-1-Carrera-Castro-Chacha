@@ -8,11 +8,11 @@
 * Chacha Chacha Kevin Alejandro
 ## 1. Objetivos
   ### General: 
-  * Analizar la materia correspondiente al capítulo 1 y 2 del libro Principios de Circuitos Eléctricos a travéz de instrumentos visuales para la posterior resolución de los ejercicios 
+  * Analizar la materia correspondiente al capítulo 1 y 2 del libro Principios de Circuitos Eléctricos a travéz de instrumentos visuales para la posterior resolución de los ejercicios planteados.
   ### Específicos
-  * Hola
-  * Hola
-  * Hola
+  * Asociar criterios de notación, unidades métricas y su operación por medio de solución de problemas con el objetivo de evaluar los conocimientos expuestos en mapas mentales.
+  * Esquematizar conceptos y componentes básicos de electricidad por medio de organizadores gráficos para su identificación en procedimientos empíricos.
+  * Integrar conocimientos sobre circuitos eléctricos, medición de magnitudes y seguridad eléctrica mediante la resolución de ejercicios de aplicación con el objetivo de emplearlos posteriormente en prácticas experimentales.
 ## 2. Resumen
   # CAPÍTULO 1: <p align=center> Cantidades y unidades
 ## <p align=center> Unidades de Medición
