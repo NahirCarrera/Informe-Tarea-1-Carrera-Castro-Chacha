@@ -8,11 +8,11 @@
 * Chacha Chacha Kevin Alejandro
 ## 1. Objetivos
   ### General: 
-  * Analizar la materia correspondiente al capítulo 1 y 2 del libro Principios de Circuitos Eléctricos a travéz de instrumentos visuales para la posterior resolución de los ejercicios planteados. 
+  * Analizar la materia correspondiente al capítulo 1 y 2 del libro Principios de Circuitos Eléctricos a travéz de instrumentos visuales para la posterior resolución de los ejercicios 
   ### Específicos
   * Hola
   * Hola
-  * Integrar conocimientos sobre circuitos eléctricos, medición de magnitudes y seguridad eléctrica mediante la resolución de ejerecicios de aplicación con el objetivo de emplearlos posteriormente en prácticas experimentales.
+  * Hola
 ## 2. Resumen
   # CAPÍTULO 1: <p align=center> Cantidades y unidades
 ## <p align=center> Unidades de Medición
@@ -47,9 +47,6 @@
   ![image](https://user-images.githubusercontent.com/93786746/140670512-9d1466d8-8da6-474b-a9bc-550bf358036c.png)
 
   ### Capítulo 2 - Ejercicios
-  ![Capítulo 2 (1-7)](https://user-images.githubusercontent.com/93829976/140822953-1beb1ff8-b541-40b8-a3c4-f2e6a7987367.JPG)
-  ![Capítulo 2 (9-11)](https://user-images.githubusercontent.com/93829976/140822976-d47c0fbd-2c94-44de-b07f-75a684aa8f05.JPG)
-  ![Capítulo 2 (13-15)](https://user-images.githubusercontent.com/93829976/140823012-2f263a2a-162a-474c-9e05-e02da8c35b35.JPG)
   ![image](https://github.com/NahirCarrera/TAREA-1/blob/main/Cap%C3%ADtulo%202%20(17%20-%2031).JPG)
   ![image](https://user-images.githubusercontent.com/93786746/140674460-9730375b-3b2c-4829-8022-95dc8bd44da7.png)
   ![image](https://user-images.githubusercontent.com/93786746/140674719-fea2e6f5-1298-4b28-b495-bffa5eb8e74c.png)
@@ -64,4 +61,4 @@
   * chao
   * chao
 ## 6. Bibliografía
-  * Hasta nunca
+  * Floyd, T. (2007). _Principios De Circuitos Eléctricos_. Octava edición. México. Pearson Education.
