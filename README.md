@@ -12,7 +12,7 @@
   ### Específicos
   * Hola
   * Hola
-  * Hola
+  * Integrar conocimientos sobre circuitos eléctricos y medición de magnitudes mediante la resolución de ejerecicios de aplicación con el objetivo de emplearlos posteriormente en prácticas experimentales.
 ## 2. Resumen
   # CAPÍTULO 1: <p align=center> Cantidades y unidades
 ## <p align=center> Unidades de Medición
