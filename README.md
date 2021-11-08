@@ -22,8 +22,9 @@
 ## <p align=center> Unidades Métricas
 ![Prefijos rosa](https://user-images.githubusercontent.com/93829962/140664859-86ab5842-9e15-4817-9d07-da4f17776ba8.jpeg)
   # CAPÍTULO 2: <p align=center> Voltaje, corriente y resistencia
+## <p align=center> Estructura atómica
 ![Estructura Atómica](https://user-images.githubusercontent.com/93829976/140682982-bdd1675f-00d5-4ff5-8f27-c56280ccf100.png)
-## <p align=center> Subtema
+
 ## <p align=center> Subtema
 ## <p align=center> Subtema
 ## <p align=center> Subtema
