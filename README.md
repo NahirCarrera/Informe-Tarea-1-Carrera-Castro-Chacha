@@ -35,7 +35,11 @@
 ## <p align=center> Seguridad eléctrica
 ![Seguridad eléctrica](https://user-images.githubusercontent.com/93786746/140665532-1694a4e4-2a41-44fe-a430-6233836b7ee0.png)
 ## 3. Explicación y resolución de ejercicios
+  ### Explicación
+  ### Capítulo 1 - Ejercicios
   ![image](https://github.com/NahirCarrera/TAREA-1/blob/main/Cap%C3%ADtulo%201%20(11-19).JPG)
+  ### Capítulo 2 - Ejercicios
+  ![image](https://github.com/NahirCarrera/TAREA-1/blob/main/Cap%C3%ADtulo%202%20(17%20-%2031).JPG)
 ## 4. Video
 ## 5. Conclusiones
 ## 6. Bibliografía
