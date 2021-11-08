@@ -26,6 +26,7 @@
 ![Estructura Atómica](https://user-images.githubusercontent.com/93829976/140682982-bdd1675f-00d5-4ff5-8f27-c56280ccf100.png)
 
 ## <p align=center> Subtema
+  
 ## <p align=center> Subtema
 ## <p align=center> Subtema
 ## <p align=center> Resistores
