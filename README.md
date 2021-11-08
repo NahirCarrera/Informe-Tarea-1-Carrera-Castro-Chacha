@@ -55,8 +55,10 @@
   ![image](https://user-images.githubusercontent.com/93786746/140687020-19341a03-59f5-4c70-9c09-6a6f8576ea18.png)
 
 ## 4. Video
+  * Link
 ## 5. Conclusiones
   * chao
   * chao
   * chao
 ## 6. Bibliografía
+  * Hasta nunca
