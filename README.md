@@ -24,9 +24,9 @@
   # CAPÍTULO 2: <p align=center> Voltaje, corriente y resistencia
 ## <p align=center> Estructura atómica
 ![Estructura Atómica](https://user-images.githubusercontent.com/93829976/140682982-bdd1675f-00d5-4ff5-8f27-c56280ccf100.png)
+## <p align=center> Carga Eléctrica
+![Carga Eléctrica](https://user-images.githubusercontent.com/93829976/140688684-4231dc0a-f8d7-4e27-a4a6-65b804c86041.png)
 
-## <p align=center> Subtema
-  
 ## <p align=center> Subtema
 ## <p align=center> Subtema
 ## <p align=center> Resistores
