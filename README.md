@@ -59,7 +59,7 @@
   ![image](https://user-images.githubusercontent.com/93786746/140687020-19341a03-59f5-4c70-9c09-6a6f8576ea18.png)
 
 ## 4. Video
-  * Link
+  * https://youtu.be/Q_Tvzg7orAY
 ## 5. Conclusiones
   * Para concluir, las unidades de medición son esenciales para llevar a cabo cálculos y medir características o atributos de fenómenos físicos. También es fundamental el uso de notación científica y de ingeniería, puesto que existen números que son muy grandes o muy pequeños y si no se usa estas notaciones, el hacer cálculos con ellos sería muy complicado; además de también usar lo que son prefijos métricos, los cuales ayudan a manejar adecuadamente unidades en un mismo sistema, en incluso llega a facilitar muchos cálculos ya que es más sencillo cuando se usa la misma unidad.
   * Algunos temas como la estructura atómica, el número atómico, niveles de energía, entre otros; son esenciales para comprender los conceptos que se abarcan sobre la electricidad. Puesto que todo sucede a niveles microscópicos gracias al comportamiento de electrones en los distintos átomos. Con la ayuda de la química se pudo clasificar los elementos en conductores, semiconductores y aislantes ya que se descubrió que, si un elemento cuenta con mayor cantidad de electrones libres la corriente pasará con mayor facilidad; esta característica es propia de los elementos conductores. Con estos conocimientos previos se dio paso a muchos otros estudios que estudiaron el comportamiento de los átomos, sus electrones y protones para definir los conceptos de voltaje, corriente y resistencia que fueron útiles para futuros experimentos que cambiarían la historia de la humanidad. 
