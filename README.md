@@ -51,7 +51,7 @@
   ![Capítulo 2 (1-7)](https://user-images.githubusercontent.com/93829976/140824260-337ef181-b025-48c8-9b01-020c070745f9.JPG)
   ![Capítulo 2 (9-11)](https://user-images.githubusercontent.com/93829976/140824346-396e6ab8-e930-45b5-be21-3ce49f2764bd.JPG)
   ![Capítulo 2 (13-15)](https://user-images.githubusercontent.com/93829976/140824359-ff99342f-05a7-4b31-a48a-1edf69cab79b.JPG)
-  ![image]()
+  ![image](https://github.com/NahirCarrera/TAREA-1/blob/main/Cap%C3%ADtulo%202%20(17%20-%2031).JPG)
   ![image](https://user-images.githubusercontent.com/93786746/140674460-9730375b-3b2c-4829-8022-95dc8bd44da7.png)
   ![image](https://user-images.githubusercontent.com/93786746/140674719-fea2e6f5-1298-4b28-b495-bffa5eb8e74c.png)
   ![image](https://user-images.githubusercontent.com/93786746/140686983-e7aceded-80c2-49f6-8108-faf61290ebc6.png)
